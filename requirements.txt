@@ -1,5 +1,5 @@
 asposestorage==1.0.2
-clip==1.0
+# clip==1.0
 fast_pytorch_kmeans==0.1.6
 numpy==1.23.1
 pandas==1.5.1
